@@ -1,3 +1,2 @@
-num = int(input('Your number:'))
-for i in range(1 ,7):
-  print(num ** i)
+n = int(input('Your number:'))
+print(sum(range(n + 1)))
